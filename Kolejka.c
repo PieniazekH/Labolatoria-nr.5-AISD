@@ -31,7 +31,7 @@ int main()
         printf("queue[%d]: %d \n", i, queue[i]);
     }
     dequeue(size);
-    dequeue(size);
+    
 
     printf("\npo usunieciu\n");
 
